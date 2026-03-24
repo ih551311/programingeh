@@ -10,6 +10,7 @@ using TMPro;
 
 public class Card : MonoBehaviour
 {
+   
     public TextMeshProUGUI text;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -21,6 +22,6 @@ public class Card : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //transform.Rotate(0, 2, 0); 
+        transform.Rotate(0, 50, 0); 
     }
 }
