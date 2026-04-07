@@ -6,7 +6,7 @@ using JetBrains.Annotations;
 
 public class CardGame : MonoBehaviour
 {
-    public List<Card> cards
+    public List<Card> cards;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
