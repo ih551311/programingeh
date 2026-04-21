@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class CardGame : MonoBehaviour
 {
+    public int pairNumber;
+
     public List<Card> cards;
 
     private Card firstCard = null;
@@ -55,9 +57,11 @@ public class CardGame : MonoBehaviour
 
     private void StartGame()
     {// 게임 초기화 
-        List<int> randomPairNumbers = GeneratePairNum(cards.Count);
+        
 
-        for (int i = 0; i < cards.Count; i++)
+        List<int> randomPairNumbers = GeneratePairNum(pairNumber * 2);
+
+        for (int i = 0; i < pairNumber * 2; i++)
         {
             cards[i].SetCardNum(randomPairNumbers[i]);
             cards[i].SetImage(sprites[randomPairNumbers[i]]);

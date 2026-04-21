@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d4dc0a9cbaae85c4ab27ce7779d7a0d3
+guid: 86751f8ac1675aa4ca9d6a13de1cabea
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2175341694374058802
-    second: MAMECHI1 (3)_0
+      213: 5837129500978733459
+    second: lakia_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MAMECHI1 (3)_0
+      name: lakia_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 386
-        height: 403
+        width: 547
+        height: 552
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23b134edebd503e10800000000000000
-      internalID: 2175341694374058802
+      spriteID: 3916acdca56a10150800000000000000
+      internalID: 5837129500978733459
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MAMECHI1 (3)_0: 2175341694374058802
+      lakia_0: 5837129500978733459
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

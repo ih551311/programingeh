@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7ad96bd23bc552149be8440af8b7729b
+guid: 9ab884f8d4dea78489727214f2333148
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6940430921713452373
-    second: MAMECHI1 (1)_0
+      213: -5754957343356574163
+    second: boster_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MAMECHI1 (1)_0
+      name: boster_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 253
-        height: 271
+        width: 441
+        height: 449
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5550edcb62d515060800000000000000
-      internalID: 6940430921713452373
+      spriteID: d26a4bb89c84220b0800000000000000
+      internalID: -5754957343356574163
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MAMECHI1 (1)_0: 6940430921713452373
+      boster_0: -5754957343356574163
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

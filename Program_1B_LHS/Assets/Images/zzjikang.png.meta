@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1ca155214fd7c154abcfffd53825795a
+guid: 4b536b2d4358a514e8660d00c718e47d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3178099789328277481
-    second: MAMECHI1 (2)_0
+      213: -7853263842188896055
+    second: zzjikang_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MAMECHI1 (2)_0
+      name: zzjikang_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 451
-        height: 489
+        width: 375
+        height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7102854741f15e3d0800000000000000
-      internalID: -3178099789328277481
+      spriteID: 9c859e6d42a930390800000000000000
+      internalID: -7853263842188896055
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MAMECHI1 (2)_0: -3178099789328277481
+      zzjikang_0: -7853263842188896055
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

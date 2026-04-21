@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 539d535f43fc45f4c93265aa1ae029c6
+guid: dd7e4751d7821f5499a24a3d4c799ae8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7114083854983027192
-    second: MAMECHI1 (4)_0
+      213: -3656880610052866052
+    second: derk_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MAMECHI1 (4)_0
+      name: derk_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 441
-        height: 495
+        width: 495
+        height: 386
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 80625690d62b54d90800000000000000
-      internalID: -7114083854983027192
+      spriteID: cfff8cbc576204dc0800000000000000
+      internalID: -3656880610052866052
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MAMECHI1 (4)_0: -7114083854983027192
+      derk_0: -3656880610052866052
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
